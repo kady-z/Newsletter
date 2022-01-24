@@ -1,5 +1,4 @@
 const url = "https://us20.api.mailchimp.com/3.0/lists/89e9354490";
-const APIKey = "c1d4ba68edc36c90dee26ff3ee6403e3-us20";
 const listId = "89e9354490"; 
 
 const options = {
